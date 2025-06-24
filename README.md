@@ -99,7 +99,8 @@ Generated pivot tables for:
 
 Below is the complete Excel dashboard built for Vrinda Store:
 
-(Final Report.jpg)
+![Dashboard Preview](https://github.com/Rudranee-1/Sales-Data-Analysis/blob/main/Final%20Report.jpg?raw=true)
+
 
 
 
